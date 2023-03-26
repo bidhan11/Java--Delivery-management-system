@@ -1,0 +1,2 @@
+181,manager,kopila,shahi,5,May,1974,female,13,majeripatan,pokhara,kaski,4,9846117285,kopila@gmail.com,181,21,08,2022
+18,manager,kopila,shahi,5,May,1974,female,13,majeripatan,pokhara,kaski,4,9846117285,kopila@gmail.com,180,21,08,2022

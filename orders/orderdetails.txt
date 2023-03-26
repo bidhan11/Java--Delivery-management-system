@@ -1,0 +1,4 @@
+162,2022-08-21,sandeep sunar,9866666666,sandeep@gmail.com,11,fulbari,pokhara,kaski,nepal,somat chettri,9711111111,somat@gmail.com,23,capetown,melbourne,45,australia,300,500,499,1000,100,delivered,destination
+30,2022-08-23,1,1,1,1,2,22,21,21,1,1,1,21,21,22,11,1,22,22,12,22,22,toassign,warehouseA
+12,2022-08-21,sandeep sunar,9866666666,sandeep@gmail.com,11,fulbari,pokhara,kaski,nepal,somat chettri,9711111111,somat@gmail.com,23,capetown,melbourne,45,australia,300,500,499,1000,100,accepted,deliverystart
+30,2022-08-23,1,1,1,1,2,22,21,21,1,1,1,21,21,22,11,1,22,22,12,22,22,toassign,officeA

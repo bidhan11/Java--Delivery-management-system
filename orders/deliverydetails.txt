@@ -1,0 +1,3 @@
+162,somat chettri,9711111111,somat@gmail.com,23,capetown,melbourne,45,australia,180,dehan,pun,9800000000,dehan@gmail.com,24 08 2022,delivered
+172,somat chettri,9711111111,somat@gmail.com,23,capetown,melbourne,45,australia,180,dehan,pun,9800000000,dehan@gmail.com,21 08 2022,delivered
+12,somat chettri,9711111111,somat@gmail.com,23,capetown,melbourne,45,australia,18,dehan,pun,9800000000,dehan@gmail.com,24 08 2022,accepted
